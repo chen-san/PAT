@@ -1,3 +1,2 @@
 # PAT
-PAT_Exercise，
-学艺不精，练习练习
+浙江大学PAT题目练习，网址为https://www.patest.cn/contests
